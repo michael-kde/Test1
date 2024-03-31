@@ -6,7 +6,6 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class CSVUtils {
-
     
     private static final String NEW_LINE_SEPARATOR = "\n";
 
